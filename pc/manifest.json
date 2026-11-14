@@ -1,0 +1,4 @@
+{
+  "manifest": "{\"app\":\"pc\",\"version\":\"1.1.18\",\"web\":{\"url\":\"https://agroganard.github.io/agroganard-tablet-ota/pc/web-1.1.18.zip\",\"sha256\":\"35327f9df12c7c5bf60eeaf586d96b03d470971d4d6866fd1472e9a0b2de6355\",\"bytes\":11445455},\"api\":{\"url\":\"https://agroganard.github.io/agroganard-tablet-ota/pc/api-1.1.18.zip\",\"sha256\":\"098e1d68800772c8441f6b8a111b92bdb9555ac9a74472bed5036bb408142ae9\",\"bytes\":62343691},\"minNativeVersion\":\"1.1.0\",\"minMigration\":\"V0068\",\"publishedAt\":\"2026-11-14T15:43:51.234Z\",\"notes\":\"OTA pc 1.1.18 (e25b058)\"}",
+  "signature": "mGrNnLoyVhBN4FGULgNckWgCJbMunO9FT9EzS1daJvXt6c1xwJFJlvE/nDgI8NUtmkDT0/rACtqMJrFYvZYkCQ=="
+}

@@ -1,0 +1,4 @@
+{
+  "manifest": "{\"app\":\"campo\",\"version\":\"1.1.18\",\"url\":\"https://agroganard.github.io/agroganard-tablet-ota/campo/campo-1.1.18.zip\",\"sha256\":\"1dd6ed9bfa2d6d14b2a2b3a38a65d1aa3aea26d8898f716cb1a01d63f6381c42\",\"minNativeVersion\":\"1.0.0\",\"minContract\":1,\"publishedAt\":\"2026-11-14T15:43:44.634Z\",\"notes\":\"OTA campo 1.1.18 (e25b058)\"}",
+  "signature": "juLnK7oJqXYhocNc0cE6O0nAmI1SOZsBl7DBLePKsWGJMI17b8pO+vmjmiWQridgG8W/9fn6yudh2LwTFHABDA=="
+}
