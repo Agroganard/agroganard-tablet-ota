@@ -1,0 +1,4 @@
+{
+  "manifest": "{\"app\":\"erp\",\"version\":\"1.1.32\",\"url\":\"https://agroganard.github.io/agroganard-tablet-ota/erp/erp-1.1.32.zip\",\"sha256\":\"9eb6b6e1c3cba65d5fa75062e459b94b04b80d4aae9b7446254cc47d959b3227\",\"minNativeVersion\":\"1.0.0\",\"minContract\":1,\"publishedAt\":\"2026-11-15T22:00:44.866Z\",\"notes\":\"OTA erp 1.1.32 (241562c)\"}",
+  "signature": "xdBblvAYS92RCVlqPhN9Q9AXqg4sSw95LSRDhz8+EIW1xwc4e1LGVm0Ca5Xzb+8tGxwKRCDF7Oc8Q8hwthkTAA=="
+}
